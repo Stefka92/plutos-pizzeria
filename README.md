@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 | EPIC  | USER STORY |
 | ------------- | ------------- |
-| *Content and navigation*  | As A user I want to see a menu and be able to nagivate through the website freely                                                |
+| *Content and navigation*  | As A user I want to see a menu and be able to navigate through the website freely                                                |
 | ----------------------    | As A Users I want to be able to see up to date information about the restuarant                                                  |
 | ----------------------    | As A Users I want to the website to be aesthetically pleasing and free of clutter                                                |
 |                           |
